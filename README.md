@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/j34K7SZF)
 # 🚀 Technical Challenge: Community Habit Tracker
 
 Welcome to the technical assessment for the AI/ML Full-Stack position. This challenge is designed to evaluate your ability to build a modern, data-driven web application using **Supabase**, **Vercel**, and **Real-time** architecture.
