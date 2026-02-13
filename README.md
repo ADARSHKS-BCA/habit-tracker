@@ -1,5 +1,7 @@
 # Habit Tracker
 
+[Live Demo](https://habit-tracker-cr5aiweer-adarsh-kss-projects.vercel.app)
+
 A modern, social habit tracking application built with **Next.js 15 (App Router)**, **Supabase**, and **TypeScript**. This application allows users to track their daily habits, maintain streaks, view comprehensive analytics, and engage with a community feed of habit completions.
 
 ## Features
@@ -57,17 +59,7 @@ Ensure you have the following installed on your machine:
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
    ```
 
-4. **Run the development server:**
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   # or
-   pnpm dev
-   ```
 
-5. **Open your browser:**
-   Navigate to [http://localhost:3000](http://localhost:3000) to see the application running.
 
 ## Project Structure
 
