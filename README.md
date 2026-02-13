@@ -2,6 +2,8 @@
 
 [Live Demo](https://habit-tracker-cr5aiweer-adarsh-kss-projects.vercel.app)
 
+https://habit-tracker-cr5aiweer-adarsh-kss-projects.vercel.app
+
 A modern, social habit tracking application built with **Next.js 15 (App Router)**, **Supabase**, and **TypeScript**. This application allows users to track their daily habits, maintain streaks, view comprehensive analytics, and engage with a community feed of habit completions.
 
 ## Features
