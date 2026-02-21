@@ -1,8 +1,8 @@
 # Habit Tracker
 
-[Live Demo](https://habit-tracker-cr5aiweer-adarsh-kss-projects.vercel.app)
+[Live Demo](https://habittracker-ip2hsuq53-adarsh-kss-projects.vercel.app)
 
-https://habit-tracker-cr5aiweer-adarsh-kss-projects.vercel.app
+https://habittracker-ip2hsuq53-adarsh-kss-projects.vercel.app
 
 A modern, social habit tracking application built with **Next.js 15 (App Router)**, **Supabase**, and **TypeScript**. This application allows users to track their daily habits, maintain streaks, view comprehensive analytics, and engage with a community feed of habit completions.
 
@@ -40,7 +40,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/habit-tracker.git
+   git clone https://github.com/ADARSHKS-BCA/habit-tracker.git
    cd habit-tracker
    ```
 
